@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KearHarry
-- 👀 I’m interested in C#,C and Python.
-- 🌱 I’m currently learning game development.
+- 👀 I’m interested in game development.I am good at many programming languages,such as c#,c++,c,java,python and so on.
+- 🌱 I’m currently learning go and lua.
 - 💞️ I’m looking to collaborate with you!
 - 😄 Pronouns: Kear
 - ⚡ Connect with me : 2825450285@qq.com
